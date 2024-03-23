@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServiceBusApp": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "commandLineArgs": "--port 7061"
+    }
+  }
+}
